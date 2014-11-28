@@ -1,0 +1,54 @@
+body{
+	background-color: black;
+}
+#svgHolder {
+	position: absolute;
+	background: black;
+	width: 640px;
+	height: 480px;
+	left: 50%;
+	top: 50%;
+	margin-top: -240px;
+	margin-left: -320px;
+}
+
+#circle0 {
+  fill: rgb(0, 255, 0);
+	opacity: .5;
+}
+
+#circle1 {
+	fill: rgb(0, 0, 255);
+	opacity: .5;
+}
+
+#circle2 {
+	fill: rgb(255, 0, 0);
+	opacity: .5;
+}
+
+h3{
+	margin: 0px;
+	font-family: Helvetica;
+	color:white;
+}
+
+h4{
+	position: fixed;
+	color: white;
+	font-family: Trebuchet MS;
+	font-weight: 700;
+}
+
+#work {
+	position: absolute;
+	width: 460px;
+	left: 50%;
+	margin-left: -230px;
+	text-align: center;
+}
+#work>h2{
+	font-family: Trebuchet MS;
+	color: white;
+	font-size: 3em;
+}
