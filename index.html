@@ -11,7 +11,7 @@
 
 <body>
 <script src="d3/d3.v3.js"></script>
-<h3> WILSON CUSACK</h3>
+<a href="/index.html"><h3> WILSON CUSACK</h3></a>
 <div id="svgHolder">
 </div>
 
@@ -217,9 +217,8 @@ $("#circle0").on('click', function(){
 function work() {
 	$('.tooltip').fadeOut(500);
 	$('svg').fadeOut(500, function(){
-		$('#work').fadeIn();
+		window.location.href = "work.html";
 	});
-	// window.location.href = "/work";
 }
 
 

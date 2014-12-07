@@ -1,0 +1,16 @@
+h3{
+	margin: 0px;
+}
+#home{
+	font-family: Helvetica;
+	color:black;
+	text-decoration: none;
+}
+
+#companyName{
+	font-family: helvetica;
+	font-size: 2em;
+	font-weight: 100;
+	margin-bottom: 15px;
+	color: hsl(135, 40%, 45%)
+}
