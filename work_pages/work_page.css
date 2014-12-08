@@ -1,6 +1,3 @@
-body {
-	margin: 0px;
-}
 h3{
 	margin: 0px;
 }
@@ -51,7 +48,12 @@ li{
 	color: rgba(0,0,0,.8);
 }
 
+#wrapper2{
+	width: 80%;
+	margin: auto;
+}
+
 img{
 	margin: auto;
-	width: 80%;
+	width: 100%;
 }
