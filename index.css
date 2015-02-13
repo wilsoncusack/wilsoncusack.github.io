@@ -12,6 +12,10 @@ body{
 	margin-left: -320px;
 }
 
+circle {
+	cursor: pointer;
+}
+
 #circle0 {
   fill: rgb(0, 255, 0);
 	opacity: .5;
