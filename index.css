@@ -96,3 +96,15 @@ a{
 	margin-top: 40%;
 	text-align: center;
 }
+
+#work>#projects{
+	color: #9E1572;
+}
+
+#randomItems{
+	text-align: center;
+}
+
+.randomItem{
+	display: inherit;
+}
