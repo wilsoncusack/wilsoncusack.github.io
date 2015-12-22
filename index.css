@@ -1,5 +1,5 @@
 body{
-	background-color: white;
+	background-color: #F8F7F3;
 }
 #svgHolder {
 	position: absolute;
@@ -57,8 +57,8 @@ a{
 }
 
 #work>h2{
-	font-family: Trebuchet MS;
-	color: grey;
+	font-weight: 100;
+	color: #FF9F6E;
 	font-size: 3em;
 	text-align: center;
 }
@@ -86,4 +86,13 @@ a{
 	background-size: 100%;
 	width: 460px;
 	height: 220px;
+}
+
+#email{
+	font-weight: 100;
+}
+
+#contactInfo{
+	margin-top: 40%;
+	text-align: center;
 }
