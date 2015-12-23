@@ -74,6 +74,14 @@ a{
 	color: hsl(135, 40%, 45%)
 }
 
+.workItem:hover #el{
+	color: #ff8206;
+}
+
+.workItem:hover #dr{
+	color: #3e4194;
+}
+
 #flImg{
 	background-image: url("images/arrows-part2bw.png");
 	background-size: 100%;
